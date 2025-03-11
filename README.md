@@ -6,7 +6,7 @@ Key Features:
 
   1-Daily Algorithm Rotation: The encryption scheme updates every 24 hours for enhanced security.
 
-  2-Secondary Security Layer: A three-number passcode system activates an additional encryption algorithm, adding an extra layer of protection.
+  2-Secondary Security Layer: A two-number passcode system activates an additional encryption algorithm, adding an extra layer of protection.
 
   3-Seamless Integration: Designed for easy integration into iOS applications as a secure messaging add-on.
 
